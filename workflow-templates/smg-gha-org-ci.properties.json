@@ -1,0 +1,6 @@
+{
+  "name": "SMG Org CI",
+  "description": "This workflow is used to build and test the SMG Organization project.",
+  "icon": "gear",
+  "categories": ["Build", "Test"]
+}
